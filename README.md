@@ -9,4 +9,4 @@ I hope you enjoy browsing through my work and feel free to contact me if you hav
 
 # NOTE!
 
-The To-Do list website mentioned in my portfolio under the project section is made in collaboration with Riddhiman Dutta - https://github.com/cdnjmusic and therefore it is neither copied nor taken the whole credit of. 
+The To-Do list website mentioned in my portfolio under the "Projects" section is made in collaboration with Riddhiman Dutta - https://github.com/cdnjmusic and therefore it is neither copied nor taken the whole credit of. 
